@@ -19,3 +19,4 @@ Enter a statement: Neil Armstrong was the first man on the moon.
 You entered: Neil Armstrong was the first man on the moon.
 ```
 ## Result
+Thus the given program is verified and executed successfully
