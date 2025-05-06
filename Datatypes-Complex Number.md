@@ -27,3 +27,4 @@ The real part of the complex number is: 3.0
 The imaginary part of the complex number is: 4.0
 ```
 ## Result
+Thus the given program is verified and executed successfully
