@@ -13,18 +13,18 @@ To write a Python program that reads two integers, creates a complex number usin
 
 ## 💻 Program
 ```
-a = int(input())
-b = int(input())
-x = complex(a, b)
-print("The complex number is:", x)
-print("The real part of the complex number is:", x.real)
-print("The imaginary part of the complex number is:", x.imag)
+a=int(input())
+b=int(input())
+x=complex(a,b)
+print(x)
+print(x.real)
+print(x.imag)
 ```
 ## Output
-```
-The complex number is: (3+4j)
-The real part of the complex number is: 3.0
-The imaginary part of the complex number is: 4.0
-```
+
+
+![WhatsApp Image 2025-05-13 at 14 25 26_bc52fefc](https://github.com/user-attachments/assets/431c5e25-565a-455f-be21-f5c812982a9e)
+
+
 ## Result
 Thus the given program is verified and executed successfully
